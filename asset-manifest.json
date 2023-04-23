@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/e-commerce_app/static/js/main.98a7d568.js",
+    "static/js/217.c0d6908c.js": "/e-commerce_app/static/js/217.c0d6908c.js",
+    "static/media/poncho.jpg": "/e-commerce_app/static/media/poncho.293885c29e33da3501f4.jpg",
+    "static/media/green_chair.jpg": "/e-commerce_app/static/media/green_chair.857ee1b3126a3c842e57.jpg",
+    "static/media/camera.jpg": "/e-commerce_app/static/media/camera.eb9d9c1b2c81f4675ca1.jpg",
+    "static/media/tote.jpg": "/e-commerce_app/static/media/tote.eaba2dd51fcd58c62507.jpg",
+    "static/media/shirt.jpg": "/e-commerce_app/static/media/shirt.2bbf33bb76c64c73b6cf.jpg",
+    "static/media/MaterialCommunityIcons.ttf": "/e-commerce_app/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/wooden_desk.jpg": "/e-commerce_app/static/media/wooden_desk.fdaa17dfc2faf7e20b76.jpg",
+    "static/media/large_desk.jpg": "/e-commerce_app/static/media/large_desk.7ef22aa532ac68526e12.jpg",
+    "static/media/plant.jpg": "/e-commerce_app/static/media/plant.461cef6fac5af03ca9ab.jpg",
+    "favicon.ico": "/e-commerce_app/favicon.ico",
+    "index.html": "/e-commerce_app/index.html",
+    "static/media/rocket.png": "/e-commerce_app/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/e-commerce_app/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/e-commerce_app/favicon-32.png",
+    "static/media/star.png": "/e-commerce_app/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/e-commerce_app/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/e-commerce_app/favicon-16.png",
+    "manifest.json": "/e-commerce_app/manifest.json",
+    "serve.json": "/e-commerce_app/serve.json",
+    "main.98a7d568.js.map": "/e-commerce_app/static/js/main.98a7d568.js.map",
+    "217.c0d6908c.js.map": "/e-commerce_app/static/js/217.c0d6908c.js.map"
+  },
+  "entrypoints": [
+    "static/js/217.c0d6908c.js",
+    "static/js/main.98a7d568.js"
+  ]
+}
