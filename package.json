@@ -2,6 +2,7 @@
   "name": "e-commerce_app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://valeriavolunterio.github.io/e-commerce_app",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -33,7 +34,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "babel-plugin-react-native-web": "^0.19.4"
+    "babel-plugin-react-native-web": "^0.19.4",
+    "gh-pages": "^5.0.0"
   },
   "private": false
 }
